@@ -1,6 +1,6 @@
 # CrossnotHacks-Painting-App
 
-# Project Name here
+# Painting Application
 
 ## Title
 
